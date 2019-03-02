@@ -1,0 +1,7 @@
+@import "~scss/variables";
+@import "~scss/nested/test";
+
+body {
+  color: $body;
+  background: yellow;
+}
